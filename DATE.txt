@@ -1,0 +1,3 @@
+http://www.cplusplus.com/reference/clibrary/ctime/tm/
+http://www.cplusplus.com/reference/clibrary/ctime/
+http://www.cplusplus.com/reference/clibrary/ctime/time/
